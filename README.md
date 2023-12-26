@@ -9,4 +9,4 @@ Points d'amélioration :
 
 les drones aire dans la carte sans réel intelligence on pourrait donc améliorer cela. De plus on pourrait implementer des algorithmes tel que Djistra pour que les drones évite les abres quand l'intrus est detecté . Le code pour ajouter les sorties n'est pas optimiser . On peut facilement ajouter un ajout de drones au fur et a messure de la partie ainsi que l'augmentation de leurs vitesses. L'interface est assez minimal et donc peut etre améliorer
 
-Ce tp a été réaliser par Théo Morneau Quentin Molin et Pillot Lucas Sur une base du TP Fourmis de notre professeru Emmanuel Adam 
+Ce tp a été réaliser par Théo Morneau Quentin Molin et Pillot Lucas Sur une base du TP Fourmis de notre professeur Emmanuel Adam 
